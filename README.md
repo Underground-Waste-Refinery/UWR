@@ -10,7 +10,7 @@ This repository contains the complete concept white paper for the **Underground 
 
 The latest version of the white paper is available here:
 
-- [Underground_Waste_Refinery_V8.pdf](UWR_WhitePaper_V8.pdf) *(or .md)*
+- [Underground_Waste_Refinery_V8.pdf](UWR_WhitePaper_V8.pdf)
 
 It provides a full technical specification, energy balance, economic model, safety architecture, and implementation roadmap.
 
