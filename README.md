@@ -65,4 +65,4 @@ The design presented herein is the result of extensive iterative development lev
 
 ## 📬 Contact
 
-For questions, collaboration, or licensing inquiries, please open an issue in this repository or contact the author directly via [GitHub](https://github.com/yourusername).
+For questions, collaboration, or licensing inquiries, please open an issue in this repository or contact the author directly via contact@harmonizedcontributions.org .
